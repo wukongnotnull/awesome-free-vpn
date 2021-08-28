@@ -46,9 +46,9 @@
 
 
 ### 网站地址
-> https://page.hideu.live/  
+> <https://page.hideu.live/>    
 > 或者  
-> https://broadcast.hideu.co/  
+> <https://broadcast.hideu.co/>   
 > 或者  
 > 若上述链接失效，百度直接搜索： **hideU**
 
