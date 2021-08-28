@@ -46,11 +46,11 @@
 
 
 ### 网站地址
-> https://page.hideu.live/    <br>  
-> 或者        <br>  
-> https://broadcast.hideu.co/ <br>  
+> https://page.hideu.live/  
 > 或者  
-> 若上述链接失效，百度直接搜索： **hideU**  
+> https://broadcast.hideu.co/  
+> 或者  
+> 若上述链接失效，百度直接搜索： **hideU**
 
 
 ## 网站介绍
